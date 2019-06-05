@@ -1,0 +1,11 @@
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\bin\Debug\netcoreapp2.1\SALSA.deps.json
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\bin\Debug\netcoreapp2.1\SALSA.runtimeconfig.json
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\bin\Debug\netcoreapp2.1\SALSA.runtimeconfig.dev.json
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\bin\Debug\netcoreapp2.1\SALSA.dll
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\bin\Debug\netcoreapp2.1\SALSA.pdb
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\obj\Debug\netcoreapp2.1\SALSA.csprojAssemblyReference.cache
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\obj\Debug\netcoreapp2.1\SALSA.csproj.CoreCompileInputs.cache
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\obj\Debug\netcoreapp2.1\SALSA.AssemblyInfoInputs.cache
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\obj\Debug\netcoreapp2.1\SALSA.AssemblyInfo.cs
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\obj\Debug\netcoreapp2.1\SALSA.dll
+C:\Users\hidde\Desktop\SALSA\SALSA\SALSA\SALSA\obj\Debug\netcoreapp2.1\SALSA.pdb
